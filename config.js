@@ -118,19 +118,19 @@ global.ig = ''
 global.md = ''
 global.fb = ''
 
-global.nna = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Help
-global.nn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
-global.paypal = 'https://www.paypal.me/Buitre01'
-global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
+global.nna =  //UPDATE GATABOT
+global.nna2 = '' //Help
+global.nn = '' //Grupo 1
+global.nnn = '' //Grupo 2
+global.nnnt = '' //Grupo 3
+global.nnntt = '' //Grupo 4
+global.nnnttt = '' //Grupo 5
+global.nnnttt2 = '' //Grupo 6 COL
+global.nnnttt3 = '' //Grupo 7 COL
+global.nnnttt4 = '' //Grupo 8 COL
+global.nnnttt5 = '' //Grupo 9 COL
+global.paypal = ''
+global.asistencia = '' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
