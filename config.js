@@ -11,9 +11,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['523316968621', 'Buitre-OFC ', true], 
-['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['5521989092076', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
+['523333936156', 'LIMONTA_BB ', true], 
+['523313006703', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['553313006703', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true]  
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -23,13 +23,13 @@ global.prems = []
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰  
-//Agrega el Idioma que quieres que tenga BuitreBotLite-MD
-//Add the language you want BuitreBotLite-MD to have
+//Agrega el Idioma que quieres que tenga LIMONTA_BB 
+//Add the language you want LIMONTA_BB to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de BuitreBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de LIMONTA_BB, Ejemplo: es | en | pt...
  
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -91,32 +91,32 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Buitre Bot '
-global.author = 'Buitre Bot'
+global.packname = 'LIMONTA_BB '
+global.author = 'LIMONTA_BB 
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['523316968621', 'Buitre Dios 💻', 1], 
-['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['523316968621', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['523316968621', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
-['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['523313006703', 'LIMONTA 💻', 1], 
+['523313006703', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['523313006703', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['523313006703', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
+['523313006703', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
-global.desc = '' //Buitre BOT md ACTIVO!!
+global.desc = '' // LIMONTA_BB md ACTIVO!!
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '' //agrega tú país ejemplo: 🇪México 
 
 global.vs = '1.0.1'
 global.vsJB = '3.0'
 
-global.gt = 'Buitre Bot '
-global.yt = 'https://youtube.com/@iambuitre'
-global.yt2 = 'https://youtube.com/@iambuitre'
-global.ig = 'https://youtube.com/@iambuitre'
-global.md = 'https://github.com/Buitreofc/Buitre-BotLite-MD#readme'
-global.fb = 'https://www.facebook.com/profile.php?id=100091780073268'
+global.gt = 'LIMONTA_BB 
+global.yt = ''
+global.yt2 = ''
+global.ig = ''
+global.md = ''
+global.fb = ''
 
 global.nna = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //UPDATE GATABOT
 global.nna2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Help
@@ -137,8 +137,8 @@ global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'Buitre Bot Lite 🌻 : Buitre OFC '
-global.igfg = 'Buitre Bot Lite'
+global.wm = 'LIMONTA_BB 🌻 : LIMONTA_BB '
+global.igfg = 'LIMONTA_BB 
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
